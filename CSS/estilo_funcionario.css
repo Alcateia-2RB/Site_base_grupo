@@ -10,8 +10,16 @@ body{
 }
 
 .perfil{
-    width: 450px;
-    height: 458px;
+    width: 10px;
+    height: 10px;
     margin-left: 2%;
 
 }
+
+.foto{
+    float: left;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  
+  }
